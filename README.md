@@ -1,1 +1,1 @@
-se estiver usando o php CLI substitua o "<br>" para o \n
+este e um pequeno exemplo de uma hash md5 utilizando a linguagem php
